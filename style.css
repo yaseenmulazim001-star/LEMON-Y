@@ -179,7 +179,7 @@
 .box {
     position: absolute;
     top: 50.88%;
-    left: 48%;
+    left: 45%;
     width: 300px;
     height: 165px;
     background-color: var(--BG_COLOR);
@@ -290,4 +290,5 @@
     justify-content: center;
     align-items: center;
     height: 40px;
+
 }
